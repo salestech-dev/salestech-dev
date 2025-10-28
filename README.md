@@ -9,7 +9,7 @@
 ## 🚀 Stack Atual
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,csharp,bootstrap,java,spring,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,c#,bootstrap,java,spring,mysql,git" />
 </p>
 
 ---
