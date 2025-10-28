@@ -9,16 +9,19 @@
 ## 🚀 Stack Atual
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,cs,c,angular,react,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,java,spring,mysql,git" />
 </p>
 
 ---
 
 ## 📌 Sobre Mim
 
-- 🎯 Focado em **C# (back-end)** e aprendendo **Angular/React (front-end)**  
-- 🔍 Curto aprender na prática, errando rápido e corrigindo rápido  
-- 🌱 Sempre testando novas ideias e evoluindo projetos pessoais  
+- 💻 Estudei e me consolidei em **C#**, adquirindo uma base sólida em back-end  
+- 🚀 Atualmente **migrando para o ecossistema Java**, com foco em **Spring Boot**  
+- 🧠 Desenvolvendo **projetos reais**, como um **SaaS de saúde empresarial**  
+- 💡 Tenho boa base em **HTML, CSS e Bootstrap** para o front-end  
+- 🔍 Aprendo na prática — errando rápido, corrigindo rápido e sempre evoluindo  
+- 🌱 Busco criar soluções úteis e escaláveis que gerem impacto real  
 
 ---
 
