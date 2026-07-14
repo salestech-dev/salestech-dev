@@ -1,27 +1,34 @@
-<h1 align="center">⚡ SalesTech | Dev em evolução</h1>
+<h1 align="center">⚡ SalesTech | Desenvolvedor Full-Stack</h1>
 
 <p align="center">
-  <i>“Construindo hoje o que vou dominar amanhã.”</i>
+  <i>"Focado em construir soluções robustas, com forte lógica de negócios e foco em resultados."</i>
 </p>
 
 ---
 
-## 🚀 Stack Atual
+## 🚀 Stack & Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,java,spring,mysql,git" />
+  <!-- Stack alinhada com o que você domina + Docker em que você tem base teórica -->
+  <img src="https://skillicons.dev/icons?i=cs,js,html,css,bootstrap,mysql,docker,git" />
 </p>
 
 ---
 
 ## 📌 Sobre Mim
 
-- 💻 Estudei e me consolidei em **C#**, adquirindo uma base sólida em back-end  
-- 🚀 Atualmente **migrando para o ecossistema Java**, com foco em **Spring Boot**  
-- 🧠 Desenvolvendo **projetos reais**, como um **SaaS de saúde empresarial**  
-- 💡 Tenho boa base em **HTML, CSS e Bootstrap** para o front-end  
-- 🔍 Aprendo na prática — errando rápido, corrigindo rápido e sempre evoluindo  
-- 🌱 Busco criar soluções úteis e escaláveis que gerem impacto real  
+- 💻 **Desenvolvedor Full-Stack** com excelente domínio em **C#** para desenvolvimento back-end e **JavaScript** no front-end.
+- ⚙️ **Foco em Lógica e Regras de Negócio:** Criador de sistemas complexos de ponta a ponta, com experiência prática em modelagem de dados e integrações.
+- 🧠 **Autonomia e Resolução de Problemas:** Perfil autodidata, focado em entender as necessidades do negócio e traduzi-las em código limpo, funcional e escalável.
+- 🐳 **Docker:** Conhecimento teórico e conceitos fundamentais de conteinerização em fase de prática e evolução.
+- 🔍 Aprendizado ágil e focado na prática — errando rápido, corrigindo rápido e entregando valor consistente.
+
+---
+
+## 🛠️ Projetos em Destaque
+
+*   **Sistema de Payroll (Folha de Pagamento):** Aplicação completa desenvolvida para gerenciar fluxos complexos de cálculos trabalhistas, folhas de pagamento e dados de colaboradores, aplicando forte lógica de back-end.
+*   **Sistema de Almoxarifado:** Solução para controle de estoque, movimentação de insumos e relatórios de fluxo, integrando de forma eficiente o front-end e o banco de dados.
 
 ---
 
