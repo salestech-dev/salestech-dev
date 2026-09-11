@@ -27,7 +27,7 @@
 
 ## 🛠️ Projetos em Destaque
 
-*   **Sistema de Payroll (Folha de Pagamento):** Aplicação completa desenvolvida para gerenciar fluxos complexos de cálculos trabalhistas, folhas de pagamento e dados de colaboradores, aplicando forte lógica de back-end.
+*   **Sistema de Organização Financeiro (Ls Finan):** Aplicação em desenvolvimento para auxiliar pessoas com seus custos, salarios entradas e saídas.
 *   **Sistema de Almoxarifado:** Solução para controle de estoque, movimentação de insumos e relatórios de fluxo, integrando de forma eficiente o front-end e o banco de dados.
 
 ---
